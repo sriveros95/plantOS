@@ -10,4 +10,5 @@ We want to have the documentation available in various languages for better impa
 
 
 Here's a [cool markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 [:grin:]https://www.webpagefx.com/tools/emoji-cheat-sheet/
