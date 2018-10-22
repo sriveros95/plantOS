@@ -5,3 +5,4 @@ Our initial goals are
 - discuss ways to solve them
 - begging implementing
 
+We want to have the documentation available in various languages for better impact. Help us translate! 
