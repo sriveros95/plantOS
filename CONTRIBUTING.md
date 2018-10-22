@@ -6,3 +6,7 @@ Our initial goals are
 - begging implementing
 
 We want to have the documentation available in various languages for better impact. Help us translate! 
+
+
+
+Here's a [cool markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
