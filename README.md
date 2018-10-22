@@ -1,5 +1,5 @@
 # plantOS
-tech &lt;3 nature
+tech :purple_heart: nature
 
 Habitants from ~~the countryside~~ all over the world could be benefited by the power of tech and open source love to keep and analize and improve their crops.
 
